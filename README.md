@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/16c61797-3973-47bc-9a87-26d6df25ac77)
+
+
 # آموزش ساده استفاده از Ktor و Kotlin Serialization در Android Compose
 
 این آموزش برای دانشجویان تازه‌کار طراحی شده است و شما را با نحوه استفاده از Ktor و Kotlin Serialization در پروژه Android Compose آشنا می‌کند.
