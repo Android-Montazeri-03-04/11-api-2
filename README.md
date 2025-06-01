@@ -12,11 +12,11 @@
 
 ## 2. تنظیمات پروژه
 
-* در فایل settings.gradle.kts (ریشه پروژه) این پلاگین را اضافه کنید:
+* در فایل build.gradle.kts (ریشه پروژه) این پلاگین را اضافه کنید:
 
 ```kotlin
 plugins {
-    kotlin("plugin.serialization") version "1.8.21"
+    kotlin("plugin.serialization") version "1.8.10"
 }
 ```
 
